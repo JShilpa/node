@@ -1,0 +1,1 @@
+1) npm init : To initialize and get package.json file for dependency.
